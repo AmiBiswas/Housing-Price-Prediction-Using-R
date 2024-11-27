@@ -26,3 +26,16 @@ Train the model on the training set and validate it on the testing set.
 Model Evaluation:
 Evaluate the model using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
 Fine-tune the model parameters to improve accuracy.
+
+
+
+
+Gradient Boosting model and Support Vector Machine Model(SVM) model is deployed:
+
+#SVM - Mean Squared Error: 16988466288 
+#SVM - R-squared: 0.6406572 
+
+#Gradient Boosting - Mean Squared Error: 23964266841 
+#Gradient Boosting - R-squared: 0.6111212
+
+# So we choose SVM as MSE is smaller & R square is higher to 64%.;
